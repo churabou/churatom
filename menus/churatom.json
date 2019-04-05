@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle churatom",
+        "command": "churatom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "churatom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "churatom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
