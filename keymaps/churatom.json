@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "churatom:toggle"
+    "ctrl-o": "churatom:toggle"
   }
 }
