@@ -1,5 +1,8 @@
 {
   "atom-workspace": {
-    "ctrl-o": "churatom:toggle"
+    "ctrl-o": "churatom:toggle"  
+  },
+  "churatom": {
+    "ctrl-n": "churatom:select-next-history"
   }
 }
